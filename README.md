@@ -4,7 +4,6 @@
 + ⚡ I'm 20 years old 🐱‍👓
 + ⚡ I am currently writing code in C#, Java, and C++ 🐱‍👤
 + ⚡ At the moment, my main activity is the development of Android/Desktop applications. 🤷‍♂️
-<br />
 
 #### Connect with me:
 
