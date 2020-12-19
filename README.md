@@ -3,7 +3,7 @@
 #### I'm a software engineering student at Ulyanovsk State Technical University!
 + ⚡ I'm 20 years old 🐱‍👓
 + ⚡ I am currently writing code in C#, Java, and C++ 🐱‍👤
-+ ⚡ At the moment, my main activity is the development of Android/Desktop applications. 🤷‍♂️
++ ⚡ At the moment, my main activity is the development of Android/Desktop/Web applications. 🤷‍♂️
 
 #### Connect with me:
 
