@@ -2,8 +2,8 @@
 
 #### I'm a software engineering student at Ulyanovsk State Technical University!
 + ⚡ I'm 20 years old 🐱‍👓
-+ ⚡ I am currently writing code in C#, Java, and C++ 🐱‍👤
-+ ⚡ At the moment, my main activity is the development of Android/Desktop/Web ASP.NET Core applications. 🤷‍♂️
++ ⚡ I am currently writing code in C# 🐱‍👤
++ ⚡ At the moment, my main activity is the development of Mobile/Desktop/Web ASP.NET Core applications. 🤷‍♂️
 
 #### Connect with me:
 
