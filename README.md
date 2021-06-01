@@ -1,9 +1,9 @@
 ### Hi there, I'm Dmitriy👋
 
 #### I'm a software engineering student at Ulyanovsk State Technical University!
-+ ⚡ I'm 20 years old 🐱‍👓
++ ⚡ I'm 21 years old 🐱‍👓
 + ⚡ I am currently writing code in C# 🐱‍👤
-+ ⚡ At the moment, my main activity is the development of Mobile/Desktop/Web ASP.NET Core applications. 🤷‍♂️
++ ⚡ At the moment, my main activity is the development of Web ASP.NET Core applications. 🤷‍♂️
 
 #### Connect with me:
 
