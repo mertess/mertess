@@ -8,7 +8,7 @@
 #### Connect with me:
 
 [<img align="left" alt="VK" width="40px" src="https://avatanplus.com/files/resources/original/5ded53183a22616ee70c96ae.png" />][VK]
-<br />
+
 ---
 
 [![Mertess's github stats](https://github-readme-stats.vercel.app/api?username=mertess&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
