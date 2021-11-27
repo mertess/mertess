@@ -1,6 +1,8 @@
 ### Hi there, I'm Dmitriy👋
 
-#### I'm a software engineering student at Ulyanovsk State Technical University!
+<img align="right" alt="me" width="250px" height="250px" src="https://psv4.userapi.com/c610518/u2000034820/docs/b52e11aae968/file.gif?extra=-Yx4CcVtvDn5MBl3Vqsh7l66_dOV0CHfo_m5OhYpyNvNHcHR505D3u05SNlTfD8xLte8_HWqVrx4vDYnmryjZZRomM3qS5Rr1QvFZ5U8iSUDzH632Mi4djJ9iGNgY51ELv9xZoiIu4-AHZKNdpG6GpolJg" />
+
+#### About me:
 + ⚡ I'm 21 years old 🐱‍👓
 + ⚡ I am currently writing code in C# 🐱‍👤
 + ⚡ At the moment, my main activity is the development of Web ASP.NET Core applications. 🤷‍♂️
