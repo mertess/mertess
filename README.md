@@ -1,4 +1,4 @@
-### Hi there, I'm Dmitriy👋
+### Hi there, I'm Dmitry👋
 
 #### About me:
 + ⚡ I'm 22 years old 🐱‍👓
