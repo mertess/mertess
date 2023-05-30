@@ -1,7 +1,7 @@
 ### Hi there, I'm Dmitry👋
 
 #### About me:
-+ ⚡ I'm 22 years old 🐱‍👓
++ ⚡ I'm 23 years old 🐱‍👓
 + ⚡ I am currently writing code in C# 🐱‍👤
 + ⚡ At the moment, my main activity is the development of Web ASP.NET Core applications. 🤷‍♂️
 
