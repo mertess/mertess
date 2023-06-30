@@ -2,8 +2,8 @@
 
 #### About me:
 + ⚡ I'm 23 years old 🐱‍👓
-+ ⚡ I am currently writing code in C# 🐱‍👤
-+ ⚡ At the moment, my main activity is the development of Web ASP.NET Core applications. 🤷‍♂️
++ ⚡ I am currently writing code in C#, Go, JavaScript, TypeScript 🐱‍👤
++ ⚡ At the moment, my main activity is professional development of systems with micro-service architecture on the .Net stack 🤷‍♂️
 
 #### Connect with me:
 
